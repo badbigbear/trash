@@ -1,0 +1,2 @@
+debian/bin/TrashBurnd usr/bin
+src/TrashBurnd usr/lib/TrashBurn

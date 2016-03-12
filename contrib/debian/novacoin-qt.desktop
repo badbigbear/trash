@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=TrashBurn
+Comment=TrashBurn P2P Cryptocurrency
+Comment[fr]=TrashBurn, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=TrashBurn, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/TrashBurn-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/TrashBurn;
+Categories=Office;
